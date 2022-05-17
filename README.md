@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hatimc21
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me email:chifahatim1@gmail.com
 
 <!---
