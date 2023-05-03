@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hatimc21
+- 👋 Hi, I’m hatim
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on new projects
