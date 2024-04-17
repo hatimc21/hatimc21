@@ -1,10 +1,12 @@
-- 👋 Hi, I’m hatim
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java, python and C#
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me email:chifahatim1@gmail.com
+## Hello, I'm Hatim! 👋
 
-<!---
-hatimc21/hatimc21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Hatim, a tech enthusiast and IT/Data Engineer at UXV with a passion for coding and problem-solving. Currently, I'm diving deep into Java, Python, and C# to create innovative solutions.
+
+### 🚀 Quick Overview:
+- 💻 Working at UXV, turning data into insights.
+- 🌱 Constantly learning and exploring new technologies.
+- 💬 Open for collaboration on exciting projects.
+- 📧 Reach out to me at: [chifahatim1@gmail.com](mailto:chifahatim1@gmail.com)
+
+### Let's Connect:
+Let's connect and bring ideas to life. Feel free to reach out for collaboration, questions, or just to say hello!
