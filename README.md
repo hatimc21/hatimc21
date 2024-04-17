@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hatim
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning java, python and C#
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me email:chifahatim1@gmail.com
 
