@@ -1,6 +1,6 @@
 ## Hello, I'm Hatim! 👋
 
-I'm Hatim, a tech enthusiast and IT/Data Engineer at UXV with a passion for coding and problem-solving. Currently, I'm diving deep into Java, Python, and C# to create innovative solutions.
+I'm Hatim, a tech enthusiast and IT/Data Engineer with a passion for coding and problem-solving. Currently, I'm diving deep into Java, Python, and C# to create innovative solutions.
 
 ### 🚀 Quick Overview:
 - 💻 Working at UXV Center, turning data into insights.
