@@ -1,5 +1,8 @@
 # 💫 About Me:
-# Hello, I'm Hatim! 👋<br><br>I'm Hatim, a tech enthusiast and AI/IT Developer passionate about coding, problem-solving, and creating innovative solutions. With experience in AI, web/mobile app development, and Unix system configuration, I'm always seeking new challenges that push me to grow. 💡<br><br>🚀 Quick Overview:<br>- 💻 Open to Work in IT, AI, or Data Engineering roles.<br>- 🔍 Exploring: AI applications, GIS systems, and full-stack development.<br>- 🌱 Current Focus: Enhancing my expertise in Java, Python, Kotlin, C#, and React Native.<br>- 🤖 AI Experience: Implemented 3D GIS web apps using React, Vite, and Mapbox, configured Jetson Nano/Orin, and developed mobile apps with Kotlin and React Native.<br>- 💬 Open for Collaboration: Reach out for exciting projects in AI, full-stack development, or data-driven applications.<br>
+ **Hello, I'm Hatim!** 👋 
+ <br><br>I'm Hatim, a tech enthusiast and AI/IT Developer passionate about coding, problem-solving, and creating innovative solutions. With experience in AI, web/mobile app development, and Unix system configuration, I'm always seeking new challenges that push me to grow. 💡<br><br>
+ 🚀 **Quick Overview:**
+ <br>- 💻 Open to Work in IT, AI, or Data Engineering roles.<br>- 🔍 Exploring: AI applications, GIS systems, and full-stack development.<br>- 🌱 Current Focus: Enhancing my expertise in Java, Python, Kotlin, C#, and React Native.<br>- 🤖 AI Experience: Implemented 3D GIS web apps using React, Vite, and Mapbox, configured Jetson Nano/Orin, and developed mobile apps with Kotlin and React Native.<br>- 💬 Open for Collaboration: Reach out for exciting projects in AI, full-stack development, or data-driven applications.<br>
 
 
 ## 🌐 Socials:
